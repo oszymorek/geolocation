@@ -28,7 +28,7 @@ A simple App to specify current user location.
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
-<strong>Data:</strong> Data is passed in via props(props drilling).</br>
+<strong>Data:</strong> Data is passed in via props.</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Hooks:</strong> Used the `useState` hook. For this project I created own hook `useGeolocation.js` </br>
 <strong>Functions:</strong> `Get current location` </br>
